@@ -12,8 +12,8 @@ class coding{
 }
 ...
 
--bullets
--bullets2
+- bullets
+- bullets2
 
 1. number
 2. number2
